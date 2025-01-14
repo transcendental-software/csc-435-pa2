@@ -1,4 +1,4 @@
-## CSC 435 Programming Assignment 2 (Fall 2024)
+## CSC 435 Programming Assignment 2 (Winter 2025)
 **Jarvis College of Computing and Digital Media - DePaul University**
 
 **Student**: TO-DO-write-student-name (TO-DO-write-email-address)  
@@ -29,7 +29,8 @@ sudo apt install maven openjdk-21-jdk
 ### Setup
 
 There are 3 datasets (dataset1, dataset2, dataset3) that you need to use to evaluate the indexing performance of your solution.
-Before you can evaluate your solution you need to download the datasets. You can download the datasets from the following link:
+Before you can evaluate your solution you need to download the datasets.
+You can download the datasets from the following link:
 
 https://depauledu-my.sharepoint.com/:f:/g/personal/aorhean_depaul_edu/Ej4obLnAKMdFh1Hidzd1t1oBHY7IvgqXoLdKRg-buoiisw?e=SWLALa
 
@@ -69,22 +70,22 @@ To run the C++ solution (after you build the project) use the following command:
 > index ../datasets/dataset1
 Completed indexing 134321105 bytes of data
 Completed indexing in 10.386 seconds
-> search at
+> search the
 Search completed in 0.4 seconds
 Search results (top 10 out of 0):
-> search Worms
+> search child-like
 Search completed in 2.8 seconds
-Search results (top 10 out of 12):
-* folder4/Document10553.txt:4
-* folder3/Document1043.txt:4
-* folder7/Document1091.txt:3
-* folder3/Document10383.txt:3
-* folder7/folderB/Document10991.txt:2
-* folder8/Document11116.txt:1
-* folder5/folderB/Document10706.txt:1
-* folder5/folderB/Document10705.txt:1
-* folder5/folderA/Document10689.txt:1
-* folder4/Document1051.txt:1
+Search results (top 10 out of 15):
+* folder7/Document10926.txt:4
+* folder3/Document10379.txt:3
+* folder6/Document10866.txt:2
+* folder8/Document1108.txt:1
+* folder7/folderD/Document11050.txt:1
+* folder6/Document10848.txt:1
+* folder6/Document1082.txt:1
+* folder4/Document10681.txt:1
+* folder4/Document10669.txt:1
+* folder3/Document10387.txt:1
 > search distortion AND adaptation
 Search completed in 3.27 seconds
 Search results (top 10 out of 4):
@@ -122,19 +123,19 @@ Completed indexing in 10.386 seconds
 > search at
 Search completed in 0.4 seconds
 Search results (top 10 out of 0):
-> search Worms
+> search child-like
 Search completed in 2.8 seconds
-Search results (top 10 out of 12):
-* folder4/Document10553.txt:4
-* folder3/Document1043.txt:4
-* folder7/Document1091.txt:3
-* folder3/Document10383.txt:3
-* folder7/folderB/Document10991.txt:2
-* folder8/Document11116.txt:1
-* folder5/folderB/Document10706.txt:1
-* folder5/folderB/Document10705.txt:1
-* folder5/folderA/Document10689.txt:1
-* folder4/Document1051.txt:1
+Search results (top 10 out of 15):
+* folder7/Document10926.txt:4
+* folder3/Document10379.txt:3
+* folder6/Document10866.txt:2
+* folder8/Document1108.txt:1
+* folder7/folderD/Document11050.txt:1
+* folder6/Document10848.txt:1
+* folder6/Document1082.txt:1
+* folder4/Document10681.txt:1
+* folder4/Document10669.txt:1
+* folder3/Document10387.txt:1
 > search distortion AND adaptation
 Search completed in 3.27 seconds
 Search results (top 10 out of 4):
