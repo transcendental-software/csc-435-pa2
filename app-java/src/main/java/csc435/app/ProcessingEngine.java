@@ -45,8 +45,7 @@ public class ProcessingEngine {
         // TO-DO get the start time
         // TO-DO crawl the folder path and extrac all file paths
         // TO-DO for each file put the document path in the index store and retrieve the document number
-        // TO-DO for each file extract all alphanumeric terms that are larger than 2 characters
-        //       and count their frequencies
+        // TO-DO for each file extract valid words/terms and count their frequencies
         // TO-DO increment the total number of read bytes
         // TO-DO update the main index with the word frequencies for each document
         // TO-DO get the stop time and calculate the execution time
