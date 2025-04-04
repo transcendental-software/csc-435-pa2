@@ -1,4 +1,4 @@
-## CSC 435 Programming Assignment 2 (Winter 2025)
+## CSC 435 Programming Assignment 2 (Spring 2025)
 **Jarvis College of Computing and Digital Media - DePaul University**
 
 **Student**: TO-DO-write-student-name (TO-DO-write-email-address)  
@@ -86,6 +86,32 @@ Search results (top 10 out of 15):
 * folder4/Document10681.txt:1
 * folder4/Document10669.txt:1
 * folder3/Document10387.txt:1
+> search vortex
+Search completed in 2.8 seconds
+Search results (top 10 out of 15):
+* folder5/folderB/Document10706.txt:6
+* folder5/folderB/Document10705.txt:4
+* folder7/Document1091.txt:3
+* folder4/Document10681.txt:3
+* folder6/Document1082.txt:2
+* folder4/Document1051.txt:2
+* folder3/folderA/Document10422.txt:2
+* folder2/Document1033.txt:2
+* folder8/Document11159.txt:1
+* folder8/Document11154.txt:1
+> search moon AND vortex
+Search completed in 2.8 seconds
+Search results (top 10 out of 15):
+* folder5/folderB/Document10706.txt:27
+* folder4/Document10681.txt:21
+* folder3/Document1043.txt:19
+* folder4/Document10600.txt:17
+* folder8/Document11154.txt:13
+* folder3/folderA/Document10422.txt:7
+* folder3/Document10379.txt:7
+* folder3/folderA/Document10421.txt:6
+* folder5/folderB/Document10705.txt:5
+* folder4/Document1051.txt:5
 > search distortion AND adaptation
 Search completed in 3.27 seconds
 Search results (top 10 out of 4):
@@ -120,7 +146,7 @@ java -cp target/app-java-1.0-SNAPSHOT.jar csc435.app.FileRetrievalEngine
 > index ../datasets/dataset1
 Completed indexing 134321105 bytes of data
 Completed indexing in 10.386 seconds
-> search at
+> search the
 Search completed in 0.4 seconds
 Search results (top 10 out of 0):
 > search child-like
@@ -136,6 +162,32 @@ Search results (top 10 out of 15):
 * folder4/Document10681.txt:1
 * folder4/Document10669.txt:1
 * folder3/Document10387.txt:1
+> search vortex
+Search completed in 2.8 seconds
+Search results (top 10 out of 15):
+* folder5/folderB/Document10706.txt:6
+* folder5/folderB/Document10705.txt:4
+* folder7/Document1091.txt:3
+* folder4/Document10681.txt:3
+* folder6/Document1082.txt:2
+* folder4/Document1051.txt:2
+* folder3/folderA/Document10422.txt:2
+* folder2/Document1033.txt:2
+* folder8/Document11159.txt:1
+* folder8/Document11154.txt:1
+> search moon AND vortex
+Search completed in 2.8 seconds
+Search results (top 10 out of 15):
+* folder5/folderB/Document10706.txt:27
+* folder4/Document10681.txt:21
+* folder3/Document1043.txt:19
+* folder4/Document10600.txt:17
+* folder8/Document11154.txt:13
+* folder3/folderA/Document10422.txt:7
+* folder3/Document10379.txt:7
+* folder3/folderA/Document10421.txt:6
+* folder5/folderB/Document10705.txt:5
+* folder4/Document1051.txt:5
 > search distortion AND adaptation
 Search completed in 3.27 seconds
 Search results (top 10 out of 4):
