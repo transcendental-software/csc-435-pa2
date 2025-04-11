@@ -88,7 +88,7 @@ Search results (top 10 out of 15):
 * folder3/Document10387.txt:1
 > search vortex
 Search completed in 2.8 seconds
-Search results (top 10 out of 15):
+Search results (top 10 out of 27):
 * folder5/folderB/Document10706.txt:6
 * folder5/folderB/Document10705.txt:4
 * folder7/Document1091.txt:3
@@ -101,17 +101,17 @@ Search results (top 10 out of 15):
 * folder8/Document11154.txt:1
 > search moon AND vortex
 Search completed in 2.8 seconds
-Search results (top 10 out of 15):
-* folder5/folderB/Document10706.txt:27
-* folder4/Document10681.txt:21
+Search results (top 10 out of 19):
+* folder5/folderB/Document10706.txt:26
+* folder4/Document10681.txt:19
 * folder3/Document1043.txt:19
 * folder4/Document10600.txt:17
 * folder8/Document11154.txt:13
-* folder3/folderA/Document10422.txt:7
-* folder3/Document10379.txt:7
+* folder3/folderA/Document10422.txt:6
+* folder3/Document10379.txt:6
 * folder3/folderA/Document10421.txt:6
 * folder5/folderB/Document10705.txt:5
-* folder4/Document1051.txt:5
+* folder4/Document1033.txt:5
 > search distortion AND adaptation
 Search completed in 3.27 seconds
 Search results (top 10 out of 4):
@@ -164,7 +164,7 @@ Search results (top 10 out of 15):
 * folder3/Document10387.txt:1
 > search vortex
 Search completed in 2.8 seconds
-Search results (top 10 out of 15):
+Search results (top 10 out of 27):
 * folder5/folderB/Document10706.txt:6
 * folder5/folderB/Document10705.txt:4
 * folder7/Document1091.txt:3
@@ -177,17 +177,17 @@ Search results (top 10 out of 15):
 * folder8/Document11154.txt:1
 > search moon AND vortex
 Search completed in 2.8 seconds
-Search results (top 10 out of 15):
-* folder5/folderB/Document10706.txt:27
-* folder4/Document10681.txt:21
+Search results (top 10 out of 19):
+* folder5/folderB/Document10706.txt:26
+* folder4/Document10681.txt:19
 * folder3/Document1043.txt:19
 * folder4/Document10600.txt:17
 * folder8/Document11154.txt:13
-* folder3/folderA/Document10422.txt:7
-* folder3/Document10379.txt:7
+* folder3/folderA/Document10422.txt:6
+* folder3/Document10379.txt:6
 * folder3/folderA/Document10421.txt:6
 * folder5/folderB/Document10705.txt:5
-* folder4/Document1051.txt:5
+* folder4/Document1033.txt:5
 > search distortion AND adaptation
 Search completed in 3.27 seconds
 Search results (top 10 out of 4):
